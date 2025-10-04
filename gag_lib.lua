@@ -2,8 +2,7 @@
 
 local Library = {}
 Library.__index = Library
-Library.Async = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/main.lua
-"))()
+Library.Async = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local UI = Library.Async --// Shortened
 
