@@ -1,4 +1,4 @@
--- This is WindUI, not a custom gui library by SYH
+--// This is WindUI, not a custom gui library by SYH
 
 local Library = {}
 Library.__index = Library
